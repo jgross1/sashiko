@@ -71,6 +71,7 @@ ignored_emails = ["patchwork@emeril.freedesktop.org"]
 ["oe-linux-nfc@lists.linux.dev"]
 ["platform-driver-x86@vger.kernel.org"]
 ["rcu@vger.kernel.org"]
+["xen-devel@lists.xenproject.org"]
 
 # --- Tracked with Email / Embargo / Patchwork Policies ---
 
